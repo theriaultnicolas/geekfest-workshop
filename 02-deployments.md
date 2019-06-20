@@ -42,7 +42,7 @@ spec:
     type: RollingUpdate
 ```
 ```
-kubectl apply -f kuard-deployment.yaml
+kubectl apply -f kuard-deployment.yml
 ```
 
 
